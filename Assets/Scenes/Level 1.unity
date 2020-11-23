@@ -249,7 +249,8 @@ MonoBehaviour:
   respawnHealthPoints: 1
   numberOfLives: 1
   isAlive: 1
-  explosionPrefab: {fileID: 0}
+  explosionPrefab: {fileID: 1980505892439947979, guid: e3df1b3adb1adce46b4f25a602115be3,
+    type: 3}
   onLivesGone: 1
   LevelToLoad: 
 --- !u!1001 &123397902
@@ -2203,16 +2204,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3491852339417551038, guid: 67434bfd23cef33488293e17a82a0c1b,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.39999998
-      objectReference: {fileID: 0}
-    - target: {fileID: 3491852339417551038, guid: 67434bfd23cef33488293e17a82a0c1b,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 0.39999998
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 67434bfd23cef33488293e17a82a0c1b, type: 3}
